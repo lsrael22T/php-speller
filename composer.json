@@ -1,5 +1,5 @@
 {
-    "name": "mekras/php-speller",
+    "name": "lsrael22t/php-speller",
     "description": "PHP spell check library",
     "type": "library",
     "keywords": [
@@ -24,7 +24,7 @@
         "ext-dom": "*",
         "ext-iconv": "*",
         "ext-libxml": "*",
-        "symfony/process": "^5.4.22 || ^6.0"
+        "symfony/process": "^5.4.22 || ^6.0 || ^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.6.10",
